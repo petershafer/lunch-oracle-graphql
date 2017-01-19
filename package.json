@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-graphql": "^0.6.1",
+    "graphql": "^0.8.2"
+  },
+  "name": "lunch-oracle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "author": "Peter Shafer",
+  "license": "MIT",
+  "scripts" : { "start" : "node index.js" }
+}

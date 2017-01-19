@@ -1,0 +1,52 @@
+[
+  {"title": "Renners", "features":
+    ["Walking Distance","Sit Down","Alcohol","Hot Dogs","Comfort Food"]},
+
+  {"title": "Down to Earth", "features":
+    ["Fast Service","Coffee","Breakfast"]},
+
+  {"title": "Marcos", "features":
+    ["Walking Distance","Sit Down","Alcohol","Coffee","Shishi","Breakfast","Desserts","Take Out","Desserts"]},
+
+  {"title": "Silva Cart", "features":
+    ["Walking Distance","Outdoor Seating","Sit Down","Coffee","Breakfast"]},
+
+  {"title": "Safeway", "features":
+    ["Driving Distance","Fast Service","Take Out","Coffee"]},
+
+  {"title": "Broder Soder", "features":
+    ["Driving Distance","Outdoor Seating","Sit Down","Alcohol","Coffee","Shishi","Breakfast","Desserts"]},
+
+  {"title": "Fat City", "features":
+    ["Walking Distance","Sit Down","Take Out","Coffee","Comfort Food","Breakfast"]},
+
+  {"title": "Otto and Anita's", "features":
+    ["Walking Distance","Sit Down","Alcohol","Comfort Food","Desserts"]},
+
+  {"title": "Lucky Lab Pizza", "features":
+    ["Walking Distance","Outdoor Seating","Sit Down","Take Out","Pizza","Alcohol","Comfort Food"]},
+
+  {"title": "Thai Herbs", "features":
+    ["Walking Distance","Outdoor Seating","Sit Down","Take Out","Alcohol","Thai"]},
+
+  {"title": "La Provence", "features":
+    ["Driving Distance","Outdoor Seating","Sit Down","Alcohol","Coffee","Shishi","Breakfast","Desserts"]},
+
+  {"title": "Grand Central Bakery", "features":
+    ["Walking Distance","Outdoor Seating","Take Out","Coffee","Breakfast","Desserts"]},
+
+  {"title": "Old Market Pub", "features":
+    ["Driving Distance","Outdoor Seating","Sit Down","Take Out","Pizza","Alcohol","Comfort Food"]},
+
+  {"title": "Starbucks", "features":
+    ["Walking Distance","Outdoor Seating","Fast Service","Coffee","Breakfast","Desserts"]},
+
+  {"title": "Jimmy's", "features":
+    ["Walking Distance","Sit Down","Alcohol","Comfort Food"]},
+
+  {"title": "Laotion Cart", "features":
+    ["Walking Distance","Outdoor Seating","Sit Down"]},
+
+  {"title": "International Cart", "features":
+    ["Walking Distance","Outdoor Seating","Sit Down"]}
+]
